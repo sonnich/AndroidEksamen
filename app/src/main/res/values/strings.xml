@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">EksamenSonnich</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="nav_1">Nav1</string>
+    <string name="nav_2">Nav2</string>
+    <string name="nav_3">Nav3</string>
+    <string name="nav_4">Nav4</string>
+    <string name="nav_open_drawer">Open navigation drawer</string>
+    <string name="nav_close_drawer">Close navigation drawer</string>
+    <string name="close_app_confirm">Sure you want to exit?</string>
+    <string name="close_app">Close app?</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
